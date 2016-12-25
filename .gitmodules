@@ -16,3 +16,12 @@
 [submodule "Vote"]
 	path = Vote
 	url = https://github.com/yeansang/Vote
+[submodule "TouchTest"]
+	path = TouchTest
+	url = https://github.com/yeansang/TouchTest
+[submodule "OsakaApp"]
+	path = OsakaApp
+	url = https://github.com/yeansang/OsakaApp
+[submodule "seoulBusApp"]
+	path = seoulBusApp
+	url = https://github.com/yeansang/seoulBusApp
