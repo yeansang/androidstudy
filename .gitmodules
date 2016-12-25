@@ -1,0 +1,18 @@
+[submodule "App1"]
+	path = App1
+	url = https://github.com/yeansang/App1
+[submodule "App2"]
+	path = App2
+	url = https://github.com/yeansang/App2
+[submodule "App3"]
+	path = App3
+	url = https://github.com/yeansang/App3
+[submodule "App4"]
+	path = App4
+	url = https://github.com/yeansang/App4
+[submodule "App5"]
+	path = App5
+	url = https://github.com/yeansang/App5
+[submodule "Vote"]
+	path = Vote
+	url = https://github.com/yeansang/Vote
